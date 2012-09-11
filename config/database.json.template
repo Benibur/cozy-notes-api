@@ -1,0 +1,13 @@
+{ "development":
+  { "driver":   "mongoose"
+  , "url":      "mongourl"
+  }
+, "test":
+  { "driver":   "mongoose"
+  , "url":      "mongourl"
+  }
+, "production":
+  { "driver":   "mongoose"
+  , "url":      "mongourl"
+  }
+}
